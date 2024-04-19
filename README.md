@@ -1,24 +1,5 @@
-# 20240112
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#專案: 動態網頁實作
+-------------------------------
+前端使用: vue cli
+後端使用: laravel
+資料庫: MySQL 並以phpMyAdmin做管理
