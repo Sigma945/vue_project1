@@ -4,3 +4,10 @@
 * 前端使用框架: vue3 (環境建置使用 vue cli)
 * 後端使用框架: laravel  
 * 資料庫: MySQL 並以phpMyAdmin做管理  
+
+## 專案說明  
+* 練習框架實作  
+* 練習後端傳資料至前端呈現
+* 練習RWD響應式網站(Bootstrap)
+
+## 專案內容
